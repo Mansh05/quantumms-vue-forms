@@ -1,10 +1,12 @@
 {
   "name": "@quantumms/vue-forms",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Form controls and builder for vue js",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "./node_modules/.bin/rollup -c",
+    "publish": "npm publish --access public"
   },
   "repository": {
     "type": "git",

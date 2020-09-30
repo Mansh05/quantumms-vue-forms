@@ -11,7 +11,7 @@ const config = {
     format: 'iife',
     sourceMap: 'inline',
     input: 'lib/index.js',
-    output: { file: 'build/index.min.js', format: 'cjs' },
+    output: { file: 'index.js', format: 'cjs' },
     plugins: [
         babell,
         uglify()
