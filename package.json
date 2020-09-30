@@ -1,0 +1,19 @@
+{
+  "name": "@quantumms/vue-forms",
+  "version": "1.0.0",
+  "description": "Form controls and builder for vue js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Mansh05/quantumms-vue-forms.git"
+  },
+  "author": "Manish Sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mansh05/quantumms-vue-forms/issues"
+  },
+  "homepage": "https://github.com/Mansh05/quantumms-vue-forms#readme"
+}
